@@ -1,2 +1,2 @@
 # ShecodesAdvancedPython
-Shecodes - Python Advanced Course
+This repository contains all course notes, code and homework from the Shecodes - Python Advanced Course
